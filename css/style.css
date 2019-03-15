@@ -1,0 +1,23 @@
+header {
+  background-color: orange;
+  font-family: Arial;
+  font-size: 26px;
+}
+
+nav {
+  background-color: grey;
+  font-family: Arial;
+  height: 300px;
+  width: 500px;
+}
+section {
+  background-color: green;
+  font-family: Arial;
+  font-size: 20px;
+  height: 300px;
+  width: 350px;
+}
+footer {
+  border-top: dashed 1px #000;
+  height: 75px;
+}
